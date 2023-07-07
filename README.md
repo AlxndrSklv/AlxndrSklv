@@ -5,5 +5,5 @@
 - 2023 Goals: become a part of new project team in AI/ML field  
 - Fun fact: the best ideas in my life came to me while fishing 
   
-###### Data Science: 
+###### Skills: 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
